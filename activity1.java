@@ -9,6 +9,8 @@ public class activity1 {
         System.out.println("MARC JOSH MARAVILLA - BSIT-2J");
         System.out.println("LHEIAN V. SAREN - BSIT-2J");
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
+        System.out.println("PAULA NICOLE TUPAS - BSIT-2J");
+        
     }
 }
   
